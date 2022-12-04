@@ -1,4 +1,4 @@
-### HI 👋, I'm 🔧
+### Hi 👋, I'm 🔧
 📫 you can reach me on [Discord](https://discord.com/users/875367612001943583)  
                                      
 
