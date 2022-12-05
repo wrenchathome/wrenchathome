@@ -20,6 +20,7 @@
    - modify games, especially GTA
  - 🕹️ I also like VR a lot, i've been testing some neat experiences
  - ⚡ Feel free to reach out for requests!
+ - 💾 ask me about my private repos ;)
 ```
 ```
 # the ways i spend my time currently:
