@@ -1,5 +1,4 @@
 <!--![Alt Text](https://i.imgur.com/wCYf7L2.png) -->
-![Alt Text](https://i.imgur.com/wCYf7L2.png)
 
 ### Hi 👋, I'm 🔧
 ```
