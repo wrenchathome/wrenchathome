@@ -10,10 +10,11 @@
        \/                \/     \/     \/     \/              
 ```  
 
-📫 you can reach me on [Discord](https://discord.com/users/875367612001943583)  
+
                                      
 <!--
 ``` 
+📫 you can reach me on [Discord](https://discord.com/users/875367612001943583)  
  - 🔧 I'm currently working on my custom FlipperZero firmware
  - 🏠 For this i'm learning C, while brushing up my pixel art skills and other cool stuff!
  - 🛠️ Other than that, here are some things I like:
